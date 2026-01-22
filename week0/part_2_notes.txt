@@ -1,0 +1,21 @@
+One way to think of Unix is as a 3-layered onion, with the Kernel at the center (interfacing between processes and the machine), the shell in the middle (allowing the user to interface with processes), and various utilities at the outer-most layer.
+- I don't think this is a very good analogy, as it implies that utilities depend on the shell, but this isn't always true (at least for modern-day machines).
+
+According to Brian Kernighan, the most revolutionary part of Unix is the concept of piping. I.e., the ability to so flawlessly pipe the output from one program to another means that users could perform many tasks such as spell-checking their documents much more easily than before, because instead of having to write a program that does this specific task all they had to do was pipe a few programs together and execute the pipeline. This idea of having simple, modular programs as building blocks is the essence of Unix.
+
+According to Dennis Ritchie, useful Unix features include 
+- formatless files
+- device-independent I/O
+- the hierarchical directory structure
+- the ability to pipeline the output of one command as the input of another 
+
+The formatless file system makes using Unix very user-friendly as you can trivially make files and put information there. In contrast, contemporary systems would require you to specify a bunch of attributes to make a file.
+
+The file system hierarchy also seems to be a new development by Unix. I'm surprised no one came up with this before?
+
+Pipelining is cool, and you can also save a pipeline in a shell program (equivalent of a modern-day Bash script).
+
+All devices are also treated as files. Pretty cool.
+
+C was created concurrently with Unix. It seems like C was considered a high-level language back then, lauded as portable : ).
+
