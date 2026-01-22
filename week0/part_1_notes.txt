@@ -1,0 +1,5 @@
+The main differences between my session and a new CLEAR session are:
+- The default shell I use is the Z shell while the default shell on CLEAR is the C shell
+- My command prompt is more informative, as it not only gives me the user and the device (e.g. "marko@orca") but also gives me the path of the directory I'm currently in (e.g. "marko@orca ~/Documents/coll128/coll128-assignments/week0 %") while CLEAR only gives me the user and the device ("[mt102@amber <tcsh>]#").
+- Both command prompts are color-coded, but mine has different colors for the user, device, and path. If you are curious, my PS1 is "{^[[31m%}%n%{^[[00m%}@%{^[[34m%}%m %{^[[33m%}%~ %{^[[00m%}%%".
+
