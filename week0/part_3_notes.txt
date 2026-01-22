@@ -1,14 +1,48 @@
-I personally disagree completely with a lot of Paul's points, however I do think his conclusion is quite good. Some disagreements I had were
+I personally disagree completely with a lot of Paul's points, however I do think his conclusion is
+quite good. Some disagreements I had were
 
-1. Paul makes the (tongue-in-cheeck) argument that Computer Science, just like Yugoslavia, is a bunch of tenuously related concepts thrown together, as an accident of history. However, as someone who is both a Computer Science student and has spent most of his life in ex-Yugoslav countries, I vigorously disagree. Computer Science is the study of automation: the mathematicians in the field study the theoretical limitations of automation and the most applied people (like Paul) implement automatic behavior via programming computers, albeit to be honest most of their job is figuring out how to commercialize / sell / entertain / experiment via automatic behavior than actually design and implement it. Perhaps you could argue that these are two very different types of work, but the work between a theoretical chemist and an applied chemist that designs flavors for Coca Cola is also very different. Maybe, in the future, there will be so many Computer Scientists that Computer Science will split into a bunch of fields, just like how the Natural Sciences in the early modern era split into the many sciences we have today (Physics, Chemistry, etc). Similarly, Yugoslavia also had a clear definition; it was a state with the goal of coalescing the South Slavic peoples of the Balkans, and it may have very well worked, like many states founded in a similar manner (Germany, Italy, etc.). I would call this non-survivorship bias : ).
+1. Paul makes the (tongue-in-cheeck) argument that Computer Science, just like Yugoslavia, is a
+bunch of tenuously related concepts thrown together, as an accident of history. However, as someone
+who is both a Computer Science student and has spent most of his life in ex-Yugoslav countries, I
+vigorously disagree. Computer Science is the study of automation: the mathematicians in the field
+study the theoretical limitations of automation and the most applied people (like Paul) implement
+automatic behavior via programming computers, albeit to be honest most of their job is figuring out
+how to commercialize / sell / entertain / experiment via automatic behavior than actually design and
+implement it. Perhaps you could argue that these are two very different types of work, but the work
+between a theoretical chemist and an applied chemist that designs flavors for Coca Cola is also very
+different. Maybe, in the future, there will be so many Computer Scientists that Computer Science
+will split into a bunch of fields, just like how the Natural Sciences in the early modern era split
+into the many sciences we have today (Physics, Chemistry, etc). Similarly, Yugoslavia also had a
+clear definition; it was a state with the goal of coalescing the South Slavic peoples of the
+Balkans, and it may have very well worked, like many states founded in a similar manner (Germany,
+Italy, etc.). I would call this non-survivorship bias : ).
 
-2. Second, I think all of Paul's static typing points have failed the test of time. Most popular heavy-duty languages (C++, TypeScript, Go, Rust, etc) are statically typed. People and companies recognized that static typing is an extremely powerful and efficient tool in decreasing the probability that code longer than a few lines won't throw absurd errors immediately after execution / far into the future when an edge case inevitably occurs. Even Python coders use tools to type-check or lint their code before running their programs (and most companies enforce this). 
+2. Second, I think all of Paul's static typing points have failed the test of time. Most popular
+heavy-duty languages (C++, TypeScript, Go, Rust, etc) are statically typed. People and companies
+recognized that static typing is an extremely powerful and efficient tool in decreasing the
+probability that code longer than a few lines won't throw absurd errors immediately after execution
+/ far into the future when an edge case inevitably occurs. Even Python coders use tools to
+type-check or lint their code before running their programs (and most companies enforce this).
 
-3. Third, I think this idea to categorize all professional programmers as "hackers" is wrong. Hackers, that work on interesting open-source projects and do creative and experimental work, rarely if ever deploy earth-shattering software that will change the course of history. This is because deploying and maintaining software is an engineering problem, and companies who do this (like Meta, Google, Netflix, TikTok, etc) succeed because they have an army of engineers following rigid protocols and ensuring things don't suddenly break. Hackers instead mainly contribute in the form of tools to do this kind of work, like programming languages (virtually every programming language is open-source), CLI tools, and even things like the Linux kernel (which I consider a tool since deployment has to be done by another party, and also you have to package it with a lot of other software for it to be useful).        
- 
-Finally, I will say that Paul's comparison of hacking to painting is reasonably grounded and many of his points (learn by doing, learn by examples, gradual refinement, human audience, etc) make sense. It is true that the process of debugging and getting things to just work is quite similar to the process of trying to get a shape right in a painting. Perhaps what I take from this reading is that setting up software is not just an annoying hurdle I have to overcome every time I try to do anything, but it is an integral part of making something new.   
+3. Third, I think this idea to categorize all professional programmers as "hackers" is wrong.
+Hackers, that work on interesting open-source projects and do creative and experimental work, rarely
+if ever deploy earth-shattering software that will change the course of history. This is because
+deploying and maintaining software is an engineering problem, and companies who do this (like Meta,
+Google, Netflix, TikTok, etc) succeed because they have an army of engineers following rigid
+protocols and ensuring things don't suddenly break. Hackers instead mainly contribute in the form of
+tools to do this kind of work, like programming languages (virtually every programming language is
+open-source), CLI tools, and even things like the Linux kernel (which I consider a tool since
+deployment has to be done by another party, and also you have to package it with a lot of other
+software for it to be useful).
 
-   
+Finally, I will say that Paul's comparison of hacking to painting is reasonably grounded and many of
+his points (learn by doing, learn by examples, gradual refinement, human audience, etc) make sense.
+It is true that the process of debugging and getting things to just work is quite similar to the
+process of trying to get a shape right in a painting. Perhaps what I take from this reading is that
+setting up software is not just an annoying hurdle I have to overcome every time I try to do
+anything, but it is an integral part of making something new.
+
+
 
 
 
